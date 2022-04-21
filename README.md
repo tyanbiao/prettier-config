@@ -12,11 +12,11 @@ $ yarn add -D @hyperbolajs/prettier-config
 
 **Edit `package.json`**
 
-```json
+```jsonc
 {
     // ...
     "prettier": "@hyperbolajs/prettier-config"
 }
 ```
 
-[More details](https://prettier.io/docs/en/configuration.html#sharing-configurations)
+## [More details](https://prettier.io/docs/en/configuration.html#sharing-configurations)

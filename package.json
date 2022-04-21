@@ -1,8 +1,9 @@
 {
-  "name": "prettier-config",
+  "name": "@hyperbolajs/prettier-config",
   "version": "1.0.0",
   "description": "wwwatson's personal prettier config",
   "main": "index.json",
+  "repository": "https://github.com/tyanbiao/prettier-config.git",
   "author": "wwwatson",
   "license": "MIT"
 }
